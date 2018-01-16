@@ -34,5 +34,5 @@ Gem::Specification.new do |spec|
   spec.add_runtime_dependency 'redis', '~> 3.3', '>= 3.3.3'
   spec.add_runtime_dependency 'redis-namespace', '~> 1.5', '>= 1.5.3'
   spec.add_dependency 'httparty', '~> 0.14.0'
-  spec.add_runtime_dependency 'jwt', '~> 1.5', '>= 1.5.6'
+  spec.add_runtime_dependency 'jwt', '~> 2.1.0', '>= 1.5.6'
 end
